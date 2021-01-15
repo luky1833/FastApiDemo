@@ -50,8 +50,8 @@
 
 ## 导入数据
 
-- mall_data.sql            // mysql insert 数据
-- mall_table.sql           // msyql表格 
+- data.sql            // mysql insert 数据
+- table.sql           // msyql表格 
 
 > 上面两个文件是mysql数据， 需自行导入
 
